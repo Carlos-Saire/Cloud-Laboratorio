@@ -3,18 +3,30 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ObjectsPickUp
+  - Alma
+  - EnemyAlma
+  - Piso
+  - EntrarAlma
+  - Undefined
+  - Bullet
+  - BulletEnemy
+  - Limite
+  - Lapida
+  - Optener
+  - Termino
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BalaEnemigo
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - EstadoAlma
+  - EstadoFisico
+  - Enemy
+  - Floor
   - 
   - 
   - 
@@ -40,4 +52,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 606626399
+    locked: 0
+  - name: Game
+    uniqueID: 3516992711
     locked: 0
