@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PickUpObjects : MonoBehaviour
@@ -23,7 +21,7 @@ public class PickUpObjects : MonoBehaviour
             {
                 objectSet = objectPickUp;
                 Rigidbody2D _rbObject = objectSet.GetComponent<Rigidbody2D>();
-                _rbObject.isKinematic = true;
+                _rbObject.bodyType = RigidbodyType2D.Kinematic;
                 objectSet.GetComponent<BoxCollider2D>().isTrigger=true;
                 objectSet.transform.SetParent(transform);
                 PickUp = true;
@@ -35,7 +33,7 @@ public class PickUpObjects : MonoBehaviour
                 PickUp = false;
                 objectSet.transform.SetParent(null);
                 Rigidbody2D _rbObject = objectSet.GetComponent<Rigidbody2D>();
-                _rbObject.isKinematic = false;
+                _rbObject.bodyType = RigidbodyType2D.Dynamic;
                 objectSet.GetComponent<BoxCollider2D>().isTrigger = false;
                 objectSet = null;
             }

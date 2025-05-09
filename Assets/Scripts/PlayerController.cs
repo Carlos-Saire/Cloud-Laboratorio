@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
-    Rigidbody2D rigidbody2D;
+    Rigidbody2D rb2d;
     public float horizontal;
     [SerializeField] GameObject alma;
     [SerializeField] private float Speed;
@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour
     public bool Fixed=true;
     private void Awake()
     {
-        rigidbody2D = GetComponent<Rigidbody2D>();
+        rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         source = GetComponent<AudioSource>();
@@ -78,7 +78,7 @@ public class PlayerController : MonoBehaviour
         {
             if (isJump)
             {
-                rigidbody2D.AddForce(new Vector3(0, jumpForce, 0), ForceMode2D.Impulse);
+                rb2d.AddForce(new Vector3(0, jumpForce, 0), ForceMode2D.Impulse);
             }
         }
         isJump = Input.GetButtonDown("Jump");
@@ -87,12 +87,12 @@ public class PlayerController : MonoBehaviour
     {
         if (Fixed == true)
         {
-            rigidbody2D.linearVelocity = new Vector2(horizontal * Speed, rigidbody2D.linearVelocity.y);
+            rb2d.linearVelocity = new Vector2(horizontal * Speed, rb2d.linearVelocity.y);
 
         }
         else
         {
-            rigidbody2D.linearVelocity = new Vector2(0, 0);
+            rb2d.linearVelocity = new Vector2(0, 0);
 
         }
     }

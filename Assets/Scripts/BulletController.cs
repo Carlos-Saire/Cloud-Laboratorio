@@ -1,25 +1,23 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
 
-    Rigidbody2D rigidbody2D;
+    Rigidbody2D rb2d;
     [SerializeField] private float Speed;
     public float Xdirection;
-    AudioSource audio;
+    AudioSource audioclip;
     private void Awake()
     {
-        rigidbody2D = GetComponent<Rigidbody2D>();
-        audio = GetComponent<AudioSource>();
+        rb2d = GetComponent<Rigidbody2D>();
+        audioclip = GetComponent<AudioSource>();
     }
     private void Start()
     {
-        audio.Play();
+        audioclip.Play();
     }
     private void FixedUpdate()
     {
-        rigidbody2D.linearVelocity = new Vector2(Speed * Xdirection, 0);
+        rb2d.linearVelocity = new Vector2(Speed * Xdirection, 0);
     }
 }
