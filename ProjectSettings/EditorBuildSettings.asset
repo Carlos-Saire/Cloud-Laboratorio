@@ -6,8 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  m_UseUCBPForAssetBundles: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: f9da4b92b4b5d6c449441e0469149518
+  - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: fc6f586c49e62224c99ebb51e8ce679a
+  - enabled: 1
+    path: Assets/Scenes/Introduccion.unity
+    guid: db87ff61a3f0ea54b953bd55243b3b46
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: ee51c2c664434524c8395a2d94a1422c
+  - enabled: 1
+    path: Assets/Scenes/Lomo Saltado Fail.unity
+    guid: b1b103e7d88cfa345b1d6d1f8cb37eb8
+  - enabled: 1
+    path: Assets/Scenes/Lomo Saltado Win.unity
+    guid: d58c7b966cd388943bf65f0e4d33ceb9
+  - enabled: 1
+    path: Assets/Scenes/Proximamente.unity
+    guid: 51e16369231e2264aa89d0f8f26f5f23
+  m_configObjects: {}
