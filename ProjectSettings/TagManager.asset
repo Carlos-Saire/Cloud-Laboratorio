@@ -3,12 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Win
+  - Limit
+  - Floor
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
   - 
@@ -40,4 +44,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Backgorund
+    uniqueID: 1487997643
+    locked: 0
+  - name: Game
+    uniqueID: 2588281329
+    locked: 0
+  - name: Foreground
+    uniqueID: 2496007513
+    locked: 0
+  - name: UI
+    uniqueID: 30373565
     locked: 0

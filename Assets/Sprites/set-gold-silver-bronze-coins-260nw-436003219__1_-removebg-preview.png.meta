@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: a25a6c1c69e1f5d47b91737f423b38f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8533d354fcc3224097ef0e5e8ababfe
+      internalID: -1804985704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce8a6dfcdc4094c93ff2efec51d6e9
+      internalID: -194212099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 193
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ee915f9366664db434618e984fd60
+      internalID: -1072346448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 193
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102cd0257a9fbf0468c58cb1c9684823
+      internalID: 1297711048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 193
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52495587e9a4334428cfae3491dbdec0
+      internalID: -71734620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0b2ecbec5ad914e8bbf425ce050321
+      internalID: 118269435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 193
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8812aac9ac1ddc47b19ecf134170762
+      internalID: 332589069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 193
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d119ed7c675c02742910ff3dae80d047
+      internalID: 1654611319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 193
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7290a8b6f3507e488eca8acfd895661
+      internalID: -1624110483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 193
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d12ab35d6cfc146ad72f3077722295
+      internalID: 756299229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38200066fd0196b4fbb91c28ed01f7df
+      internalID: -561115483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c2d12b8285c1f469e1d02fed4ec6bc
+      internalID: -1724516712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 106
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13607af29dbc4ed42bbf5954a2dc195e
+      internalID: -1826571004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 106
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff5413cb45d9344a995f22687acbaa
+      internalID: -1579341734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 106
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a734f08815a248b90c530cd4982d7
+      internalID: -519365004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 106
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a74c3ee23ed9744b149e410ded082e
+      internalID: 2028315740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 106
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9675ec39a7c10940924a9f8dbc7ba75
+      internalID: -1411885218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 106
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f94fad4bda174daf3a3ce801b7336
+      internalID: -1189631653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 106
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66686730983c5b49aa34d83035fcb3b
+      internalID: -1689900319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 106
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea97ca970e4a443a1b13dbbc0c9bda
+      internalID: 1865532464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c49ecf70564d248a9c8ed1c1016136
+      internalID: 1941255829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe854ef39756042920972e0007b538
+      internalID: -38267508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 19
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bafa44de12516945bbbc0085a5e4739
+      internalID: -1229598809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 19
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9d0977d6d7004aa6a56e6d35166c4
+      internalID: 698637685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 19
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43b01a560ad0564e9976c848abe771f
+      internalID: -2102598220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 19
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719f8bfa60d657948aa322d3eabc0289
+      internalID: 849054787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 19
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7178288ba3b8e9f46b5d2fa1e531e78e
+      internalID: 182962865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 19
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883de6129befcd241b662660e30efa27
+      internalID: 1679800834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 19
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e7b662a7073242a5e88b7f8d88a00
+      internalID: 1653630761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 19
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3719a60289488864c9bf70ff39da2995
+      internalID: -1305835520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 4
+        width: 90
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f68d7751cfb04419bb963b0400c446
+      internalID: 927882671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c484fa74b7f004c9a27cc4fcf3b26c
+      internalID: 1958876710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_0: -1804985704
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_1: -194212099
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_10: -561115483
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_11: -1724516712
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_12: -1826571004
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_13: -1579341734
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_14: -519365004
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_15: 2028315740
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_16: -1411885218
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_17: -1189631653
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_18: -1689900319
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_19: 1865532464
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_2: -1072346448
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_20: 1941255829
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_21: -38267508
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_22: -1229598809
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_23: 698637685
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_24: -2102598220
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_25: 849054787
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_26: 182962865
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_27: 1679800834
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_28: 1653630761
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_29: -1305835520
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_3: 1297711048
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_30: 927882671
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_31: 1958876710
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_4: -71734620
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_5: 118269435
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_6: 332589069
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_7: 1654611319
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_8: -1624110483
+      set-gold-silver-bronze-coins-260nw-436003219__1_-removebg-preview_9: 756299229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
