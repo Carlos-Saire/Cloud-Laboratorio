@@ -30,3 +30,4 @@ EditorBuildSettings:
     path: Assets/Scenes/Proximamente.unity
     guid: 51e16369231e2264aa89d0f8f26f5f23
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
