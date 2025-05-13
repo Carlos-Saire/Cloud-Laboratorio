@@ -436,6 +436,9 @@ PlayerSettings:
   - serializedVersion: 3
     m_BuildTarget: Android
     m_Formats: 03000000
+  - serializedVersion: 3
+    m_BuildTarget: WebGL
+    m_Formats: 05000000
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -813,11 +816,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 31234931-c217-4dba-a17f-099d5d2bdbcc
+  cloudProjectId: 4700ed5b-afa1-4f22-b026-6f06cea9f86f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TestingGame
-  organizationId: unity_f3a480444de1d89a5be4
+  projectName: Motores3
+  organizationId: unity_6a7bef3313e88881d343
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
