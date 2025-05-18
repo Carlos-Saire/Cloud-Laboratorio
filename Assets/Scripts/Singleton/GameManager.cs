@@ -38,4 +38,11 @@ public class GameManager : MonoBehaviour
     {
         text.text = value;
     }
+    public void QuitGame()
+    {
+        Debug.Log("Cerrando el juego...");
+        Application.Quit();
+        Application.OpenURL("about:blank");
+    }
+
 }
